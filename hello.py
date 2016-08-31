@@ -1,7 +1,7 @@
 class HelloWorld():
 
     def main(self):
-        print "Hello, world."
+        print "Hello, WORLD!"
 
 hw = HelloWorld()
 hw.main()
